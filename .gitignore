@@ -1,0 +1,8 @@
+# NEVER publish these
+shield.key
+*.db
+*.db-wal
+*.db-shm
+audit.log
+__pycache__/
+.env
